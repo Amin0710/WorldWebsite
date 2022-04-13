@@ -1,0 +1,185 @@
+div#wrapper{
+	position:relative;
+	width:1000px;
+	margin:auto;}
+	
+div#banner{
+	position:absolute;
+	top:0;left:0;
+	width:100%;
+	height:100px;
+	background-color:Black;
+	color:white;}
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+div#search{
+	position:absolute;
+	bottom:57px;right:0;}
+div#clock{
+    bottom:0;left:0;
+    position: absolute;
+    display: block;
+}
+	
+div#hint{
+	position:absolute;
+	color:red;
+	font-size: 250%; 
+	}
+	
+div#nav{
+	position:absolute;
+	top:100px;
+	width:150px;
+}
+
+div#nav a{
+	display:block;
+	text-decoration:none;
+	}
+div#nav a:hover {
+	font-size: 120%;
+}
+div#links a{
+	display:block;
+	text-decoration:none;}
+
+div#gmap{
+	position:absolute;
+	right:0px;
+	padding-bottom:170px;
+}
+	
+div#main-content{
+	position:absolute;
+	top:100px;
+	left:150px;
+	border-left:1px solid black;
+	padding-left:10px;
+}
+
+div#footer{
+	position:fixed;
+	bottom:0;
+	height:50px;
+	width:1000px;
+	background-color:white;
+	border-top:1px solid black;
+	
+}
+div#footer2{
+	position:fixed;
+	bottom:0px;
+	height:50px;
+	width:150px;
+	background-color:white;
+	border-top:1px solid black;
+	
+}
+#flag img{
+  width: 350px;
+  height: 250px;
+  }
+#hom{
+  position:absolute;
+  top:100px;
+  }
+div#logo
+{
+	position:relative;
+	display: block;
+    bottom: 250px;
+    opacity: 0.7;
+}
+div#logo2
+{
+	position:relative;
+    bottom: 310px;
+    opacity: 1;
+	right:140px;
+}
+.dropbtn {
+    background-color: #3e8e41;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown {
+    bottom:0;right:0;
+    position: absolute;
+    display: block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #4CAF50;
+}
+div.post{
+	border-bottom:1px solid black;}
+#myContainer {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  background: none;
+}
+#myAnimation {
+  opacity : 0;
+  bottom:-500px;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  background-color: none;
+}
+#myAnimation img{
+  width: 350px;
+  height: 250px;
+  position: absolute;
+  background-color: none;
+}
+#myAnimation2 {
+  opacity : 0;
+  bottom:-500px;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  background-color: none;
+}
+#myAnimation2 img{
+  width: 350px;
+  height: 250px;
+  position: absolute;
+  background-color: none;
+}
+
+     
+	
